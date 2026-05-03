@@ -1,0 +1,18 @@
+# Credentials — never upload these
+.env
+naukri_session.json
+
+# Output logs
+applications_log.csv
+skipped_log.csv
+error_log.txt
+
+# Debug screenshots
+*.png
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
